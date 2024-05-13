@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    display:inline-flex;
+}
+   
+
+.card{
+    
+    width: 200px;
+    height: 500px;
+    border: 1px solid black;
+    position: relative;
+    margin-left: 20px;
+   
+
+}
+
+.card .contant img{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.card footer p{
+    width: 100%;
+    background-color: black;
+    color: white;
+   padding: 8px;
+  position: absolute;
+  bottom: 0;
+  
+}
