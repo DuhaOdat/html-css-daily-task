@@ -1,0 +1,53 @@
+
+
+.container{
+    display: flex;
+    background-color: rgb(241, 241, 75);
+    height:700px;
+    padding: 10px;
+}
+.container> div{
+    width:200px;
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+
+
+#item1{
+    background-color: green;
+   
+}
+#item2{
+    background-color: yellow;
+    
+}
+#item3{
+    background-color: purple;
+   
+}
+#item4{
+    background-color: gray;
+    
+}
+#item5{
+    background-color: blue;
+    
+}
+#item6{
+    background-color: orange;
+    
+}
+#item7{
+    background-color: pink;
+   
+}
+#item8{
+    background-color:red;
+    
+}
+#item9{
+    background-color: brown;
+    
+}
+
